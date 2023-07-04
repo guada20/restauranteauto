@@ -1,0 +1,23 @@
+.banner{
+    background-image: url("../img/imguno.jpg");
+    background-position: top-center;
+    background-size: cover;
+    background-attachment: fixed;
+    padding: 25%;
+}
+.menu{
+    background-color:#C977F5;
+}
+.pie{
+    background-color: #C977F5;
+    text-align: center;
+    font-family: 'Fasthand', cursive;
+}
+.tituloR,
+.parrafo,
+.registro{
+    font-family: 'Shadows Into Light', cursive;
+}
+.parrafo{
+    font-size: 25px;
+}
